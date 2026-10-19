@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "snorlax",
+    "abilities": [
+      "immunity",
+      "thick-fat",
+      "gluttony"
+    ]
+  }
+]
